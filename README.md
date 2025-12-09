@@ -4,6 +4,8 @@ A 2D platformer game inspired by Geometry Dash, built in Unity. Navigate through
 
 ## 🎮 How to Play
 
+Link: (https://play.unity.com/api/v1/games/game/8965719a-8f5e-415c-ad5e-baa056de03b4/build/latest/frame)
+
 ### Installation
 1. Download the game files from the releases page
 2. Extract the ZIP file to your desired location
@@ -52,7 +54,7 @@ A 2D platformer game inspired by Geometry Dash, built in Unity. Navigate through
 
 - Game Design & Development: [Aadem Isai]
 - Inspired by: Geometry Dash by RobTop Games
-- Assets: Unity default sprites and built-in particle systems, physics implementation originated from Here
+- Assets: Unity default sprites and built-in particle systems, physics implementation originated from (https://www.youtube.com/watch?v=ADd9e0fIYzs&list=PLCmEmqCMwg-U77rz6O3ND-WQ1395f4NW1)
 
 ## 🐛 Known Issues
 
